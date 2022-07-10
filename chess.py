@@ -1,7 +1,7 @@
 '''
-Created on 12 de ago de 2016
 
-@author: fvj
+
+
 
 PIECE AND COLOR BITMASK = 0bCPPP
 where:
